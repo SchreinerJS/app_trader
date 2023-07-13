@@ -1,3 +1,6 @@
+This was a group project completed with Richard Leonard and Chernae Saka. The scripts and powerpoint we worked on together as a team are in process of being recovered.
+
+
 App Trader
 Your team has been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store.   
 
